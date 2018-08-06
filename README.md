@@ -5,6 +5,6 @@ view working app here:
 https://arcane-sea-80742.herokuapp.com/login
 
 # Tech Used
-React.js, Node.js, JavaScript, HTML, Materialize, CSS, Passport
+React.js, Node.js, JavaScript, HTML, Materialize, CSS, Passport, MongoDB, Mongoose
 
 
